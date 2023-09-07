@@ -6,12 +6,16 @@ This repository is the starter code for the project: Students will fork and clon
 
 # Screenshots
 
+Main webpage
 ![Main webpage](https://github.com/Rebeccabenedict/tweeter/blob/master/docs/Screen%20Shot%202023-09-06%20at%2011.07.31%20PM.png)
 
+Empty entry results in error message
 ![Empty entry results in error message](https://github.com/Rebeccabenedict/tweeter/blob/master/docs/Screen%20Shot%202023-09-06%20at%2011.10.22%20PM.png)
 
+First tweet
 ![First tweet](https://github.com/Rebeccabenedict/tweeter/blob/master/docs/Screen%20Shot%202023-09-06%20at%2011.13.54%20PM.png)
 
+Exceeding character limit results in error message
 ![Exceeding character limit results in error message](https://github.com/Rebeccabenedict/tweeter/blob/master/docs/Screen%20Shot%202023-09-06%20at%2011.13.54%20PM.png)
 
 
